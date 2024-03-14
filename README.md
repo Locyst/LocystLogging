@@ -1,6 +1,6 @@
 # LocystLogging
 
-A python logger library to make logging and managing logs easier. The default and unchangable format for logs are "[Time of log] [Log file caller/Log level] [Msg]".
+A python logger library to make logging and managing logs easier. The default and unchangable format for logs are "[Time of log] [Log file caller/Log level] [Msg]". Inspired by how minecraft handles logs
 
 ## How to use
 
